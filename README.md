@@ -3,6 +3,7 @@
 This is the code for my winning entry to the 
 [Hacking Facial Recognition Challenge](https://mlsec.io/) 
 hosted and sponsored by [Cujo](https://cujo.com/) and [Adversa](https://adversa.ai/).
+Also check out my [blog post](https://www.alexmeinke.de/2022/10/09/adversarial-attacks.html) on how I arrived at this method.
 
 The task of the contest was to change a facial recognition system's prediction from predicting one person to predicting another, 
 while not changing the original image too much. For measuring how much an image was allowed to change, the organizers defined a stealthiness score and
